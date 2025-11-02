@@ -1,9 +1,9 @@
 PHP Html Parser
 ==========================
 
-[![Build Status](https://travis-ci.org/paquettg/php-html-parser.png)](https://travis-ci.org/paquettg/php-html-parser)
-[![Coverage Status](https://coveralls.io/repos/paquettg/php-html-parser/badge.png)](https://coveralls.io/r/paquettg/php-html-parser)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/paquettg/php-html-parser/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/paquettg/php-html-parser/?branch=master)
+[![Build Status](https://travis-ci.org/adalah-it/php-html-parser.png)](https://travis-ci.org/adalah-it/php-html-parser)
+[![Coverage Status](https://coveralls.io/repos/adalah-it/php-html-parser/badge.png)](https://coveralls.io/r/adalah-it/php-html-parser)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/adalah-it/php-html-parser/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/adalah-it/php-html-parser/?branch=master)
 
 PHPHtmlParser is a simple, flexible, html parser which allows you to select tags using any css selector, like jQuery. The goal is to assist in the development of tools which require a quick, easy way to scrap html, whether it's valid or not!
 
@@ -13,7 +13,7 @@ Install
 Install the latest version using composer.
 
 ```bash
-$ composer require paquettg/php-html-parser
+$ composer require adalah-it/php-html-parser
 ```
 
 This package can be found on [packagist](https://packagist.org/packages/paquettg/php-html-parser) and is best loaded using [composer](http://getcomposer.org/). We support php 7.2, 7.3, and 7.4.
